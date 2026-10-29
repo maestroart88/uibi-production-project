@@ -6,6 +6,8 @@ const {t} = useTranslation('about');
     return(
         <div>
             {t('О сайте')}
+            {t('Нива')}
+
         </div>
     )
 }
